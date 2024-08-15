@@ -1,0 +1,12 @@
+h1 {
+    color :brown;
+}
+
+.post {
+    background-color: lightblue;
+    height : 100px;
+}
+
+.username {
+    font-style : italic;
+}

@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.shellIntegration.enabled": true,
+    "terminal.integrated.commandsToSkipShell": [
+        "export PATH=$PATH:$(npm bin -g)"
+    ]
+}
