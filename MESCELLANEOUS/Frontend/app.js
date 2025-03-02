@@ -51,7 +51,7 @@ class Student extends Person {
     eat() {
         console.log("eating");
     }
-    //when we rewrite the talk function then child class function will run always (Student talk function will run)
+    //when we rewrite the talk function then child class function will exicute always (Student talk function will exicute)
 }
 
 let s1 = new Student("raghav", 15, 96);
